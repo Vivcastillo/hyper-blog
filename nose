@@ -1,0 +1,23 @@
+[33mcommit 458230008782dc6eabd900e240043a0d9df5f9f1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Victor Castillo <vc3986792@gmail.com>
+Date:   Mon Oct 9 17:51:53 2023 -0500
+
+    Agregamos el estado de la persona
+    
+    La persona es victor
+
+[1mdiff --git a/historia.txt b/historia.txt[m
+[1mindex 2ca42b2..f4805ce 100644[m
+[1m--- a/historia.txt[m
+[1m+++ b/historia.txt[m
+[36m@@ -5,5 +5,6 @@[m [mviviendo en Colombia.[m
+ [m
+ Hoy hablaremos de su historia.[m
+ [m
+[31m-es camara se ve alto pero en realidad no lo es tanto[m
+[31m-           [m
+\ No newline at end of file[m
+[32m+[m[32mes camara se ve alto pero en realidad no es tan alto.[m
+[32m+[m[41m           [m
+[32m+[m[32mEste esta en semana de vacaciones.[m
+\ No newline at end of file[m
