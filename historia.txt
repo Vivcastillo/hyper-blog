@@ -1,5 +1,10 @@
 Esta es la historia de Victor Castillo.
 
-Victor Castillo tiene 14 años.
+Victor Castillo tiene 14 años y nacio en Venezuela,
+viviendo en Colombia.
 
-Hoy hablaremos de su historia.
+mañana nos enfocaremos en su historia laboral.
+
+el esta estudiando javascript y frontend developer.
+
+espera que en el 2025 ya este trabajando.
