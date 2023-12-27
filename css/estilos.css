@@ -9,7 +9,7 @@ body{
 }
 
 #cabecera{
-    background:#33A url(".../proyecto1/imagenes/gato.png") no-repeat center center cover;
+    background:#33A url("/proyecto1/imagenes/gato.png") no-repeat center center cover;
     box-shadow:0 2px 20px 0 rgba(0,0,0,0.5);
     color:#fff;
     font-weight:700;
