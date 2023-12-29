@@ -1,5 +1,4 @@
 body{
-    background: #1e1f24;
     color:#333;
     text-align:center;
     font-family:Arial;
@@ -9,23 +8,17 @@ body{
 }
 
 #cabecera{
-    background:#33A url("/proyecto1/imagenes/gato.png") no-repeat center center cover;
-    box-shadow:0 2px 20px 0 rgba(0,0,0,0.5);
+    background:#33A;
     color:#fff;
     font-weight:700;
     margin:0;
-    padding:0.5em 0 0.5em 2em
+    padding:0.5em;
 }
 
 #cabecera #tagline{
     padding:0 0 0 1em;
     font-weight:400;
     font-size:0.8em
-}
-
-#cabecera #logo {
-    width: 20px;
-    vertical-align: middle;
 }
 
 #container{
@@ -41,7 +34,6 @@ body{
 }
 
 #post{
-    background: white;
     padding:1em
 }
 
