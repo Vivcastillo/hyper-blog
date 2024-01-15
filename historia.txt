@@ -7,6 +7,8 @@ Daniela tiene 27 años y esta viviendo actualmente en España.
 
 master 1
 
+master 2
+
 mañana nos enfocaremos en su historia laboral.
 
 el esta estudiando javascript y frontend developer.
